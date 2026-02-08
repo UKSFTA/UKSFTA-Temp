@@ -1,3 +1,15 @@
+class CfgPatches
+{
+	class UKSFTA_Main
+	{
+		units[] = {};
+		weapons[] = {};
+		requiredVersion = 1.0;
+		requiredAddons[] = {};
+		author = "UKSF Taskforce Alpha Team";
+		url = "https://github.com/UKSFTA";
+	};
+};
 class CfgMods {
     action = "https://uksfta.github.io/";
     actionName = "Website";
