@@ -3,8 +3,6 @@ author = "UKSF Taskforce Alpha Team"
 prefix = "UKSFTA-Temp"
 mainprefix = "z"
 
-keyname = "UKSFTA"
-signame = "UKSFTA"
 
 [version]
 path = "addons/main/script_version.hpp"
@@ -22,3 +20,6 @@ include = [
 
 workshop_id = "3580353814"
 workshop_tags = ["Mod", "Addon"]
+
+[hemtt.signing]
+authority = "UKSFTA"
