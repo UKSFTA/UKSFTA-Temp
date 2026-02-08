@@ -17,5 +17,5 @@ include = [
     "README.md"
 ]
 
-workshop_id = "INSERT_ID_HERE"
+workshop_id = "3580353814"
 workshop_tags = ["Mod", "Addon"]

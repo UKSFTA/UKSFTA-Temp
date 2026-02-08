@@ -1,1 +1,1 @@
-/ext/Development/UKSFTA-Temp/.uksf_tools/tools/sqf_validator.py
+../.uksf_tools/tools/sqf_validator.py
