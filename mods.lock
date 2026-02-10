@@ -1,0 +1,136 @@
+{
+  "mods": {
+    "3312210548": {
+      "files": [
+        "addons/Flex_CUP_UAF_Equipment.pbo",
+        "addons/Flex_CUP_UAF_Faction.pbo",
+        "addons/Flex_CUP_UAF_Faction_Plus.pbo"
+      ],
+      "name": "Main Campaign Faction | (CUP) Ukrainian Armed Forces",
+      "dependencies": [
+        {
+          "id": "497661914",
+          "name": "CUP Units"
+        },
+        {
+          "id": "541888371",
+          "name": "CUP Vehicles"
+        },
+        {
+          "id": "497660133",
+          "name": "CUP Weapons"
+        }
+      ],
+      "updated": "0"
+    },
+    "2822758266": {
+      "files": [
+        "addons/GF_Deformer.pbo"
+      ],
+      "name": "Main Campaign Editor Extention | Deformer",
+      "dependencies": [],
+      "updated": "0"
+    },
+    "3256534418": {
+      "files": [
+        "addons/trencher_main.pbo"
+      ],
+      "name": "Main Campaign Editor Extention | Trencher - Eden Trench Generation",
+      "dependencies": [
+        {
+          "id": "450814997",
+          "name": "CBA_A3"
+        },
+        {
+          "id": "2914901109",
+          "name": "Chameleon Trenches"
+        },
+        {
+          "id": "2966168738",
+          "name": "Terrain Lib"
+        }
+      ],
+      "updated": "1748435072"
+    },
+    "1378775292": {
+      "files": [
+        "addons/ussr_guitar.pbo"
+      ],
+      "name": "Main Campaign Assets | Acoustic Guitar Mod",
+      "dependencies": [],
+      "updated": "1743136324"
+    },
+    "3302605900": {
+      "files": [
+        "addons/ArmaFPV.pbo",
+        "addons/BOT_FPV_Enhanced.pbo"
+      ],
+      "name": "Main Campaign Assets | FPV Drone Crocus Enhanced",
+      "dependencies": [],
+      "updated": "1763848609"
+    },
+    "520618345": {
+      "files": [
+        "addons/afghan_houses.pbo",
+        "addons/afghan_houses_c.pbo",
+        "addons/afghan_houses_c2.pbo",
+        "addons/afghan_houses_old.pbo",
+        "addons/afghan_house_a.pbo",
+        "addons/bridges.pbo",
+        "addons/bunkers.pbo",
+        "addons/Cargo_Cont.pbo",
+        "addons/Gear.pbo",
+        "addons/GeneralStore.pbo",
+        "addons/Ind.pbo",
+        "addons/Jbad_Bridge_Kammeny.pbo",
+        "addons/Jbad_Bridge_Most.pbo",
+        "addons/Jbad_Defines.pbo",
+        "addons/jbad_misc.pbo",
+        "addons/Jbad_Rocks.pbo",
+        "addons/Jbad_Sounds.pbo",
+        "addons/Jbad_Structures.pbo",
+        "addons/Jbad_Veg.pbo",
+        "addons/Jbad_Vehicles.pbo",
+        "addons/Jbad_Water.pbo",
+        "addons/mil.pbo",
+        "addons/Mosque_big.pbo",
+        "addons/OPXBuildings2.pbo",
+        "addons/OPXmisc2.pbo",
+        "addons/Shops.pbo",
+        "addons/Sidewalks.pbo",
+        "addons/Walls.pbo"
+      ],
+      "name": "Side Operation Assets | Jbad",
+      "dependencies": [],
+      "updated": "1591515779"
+    },
+    "612930542": {
+      "files": [
+        "addons/rds_a2port_civ.pbo",
+        "addons/rds_a2port_civ_sound.pbo",
+        "addons/rds_a2port_civ_sound_cfg.pbo",
+        "addons/rds_a2port_cman.pbo"
+      ],
+      "name": "Side Operation Assets | RDS Civilian Pack",
+      "dependencies": [],
+      "updated": "1617132885"
+    },
+    "2914901109": {
+      "files": [
+        "addons/Peer_Trenches_main.pbo",
+        "addons/Peer_Trenches_vehicles.pbo"
+      ],
+      "name": "Mod 2914901109",
+      "dependencies": [],
+      "updated": "1763094514"
+    },
+    "2966168738": {
+      "files": [
+        "addons/TerrainLib_main.pbo"
+      ],
+      "name": "Mod 2966168738",
+      "dependencies": [],
+      "updated": "1752516417"
+    }
+  }
+}
