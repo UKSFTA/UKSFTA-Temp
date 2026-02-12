@@ -2,10 +2,14 @@
 # Format: URL/ID # Tag (Optional)
 # Example: 450814997 # Weekend Ops, Core
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3312210548 # Main Campaign Faction | (CUP) Ukrainian Armed Forces
+https://steamcommunity.com/sharedfiles/filedetails/?id=2996651194 # Main Campaign Faction | ARMED FORCE UKRAINE
+https://steamcommunity.com/sharedfiles/filedetails/?id=3496710146 # Main Campaign Vehicles | Ukrainian&Russian Vehicles (2022-2025)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3418145558 # Main Campaign Vehicles | Russian Tank Series
+https://steamcommunity.com/sharedfiles/filedetails/?id=3498496846 # Main Campaign Vehicles | [REMASTERED!!!] BBM Varta | Варта ББМ
+https://steamcommunity.com/sharedfiles/filedetails/?id=3365663203 # Main Campaign Vehicles | QAV - Challenger 2
+https://steamcommunity.com/sharedfiles/filedetails/?id=3414879940 # Main Campaign Equipment | Hendrix Russian and Ukraine Gear
 https://steamcommunity.com/sharedfiles/filedetails/?id=2822758266 # Main Campaign Editor Extention | Deformer
 https://steamcommunity.com/sharedfiles/filedetails/?id=3256534418 # Main Campaign Editor Extention | Trencher - Eden Trench Generation
-https://steamcommunity.com/sharedfiles/filedetails/?id=1378775292 # Main Campaign Assets | Acoustic Guitar Mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=3302605900 # Main Campaign Assets | FPV Drone Crocus Enhanced
 https://steamcommunity.com/sharedfiles/filedetails/?id=520618345 # Side Operation Assets | Jbad
 https://steamcommunity.com/sharedfiles/filedetails/?id=612930542 # Side Operation Assets | RDS Civilian Pack
@@ -14,6 +18,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=612930542 # Side Operatio
 # List mods to exclude from download/sync below
 # https://steamcommunity.com/sharedfiles/filedetails/?id=463939057 # Overhaul | ACE
 https://steamcommunity.com/sharedfiles/filedetails/?id=450814997 # Base | CBA_3
-https://steamcommunity.com/workshop/filedetails/?id=497661914 # Units | CUP Units
-https://steamcommunity.com/workshop/filedetails/?id=541888371 # Vehicles | CUP Vehicles
-https://steamcommunity.com/workshop/filedetails/?id=497660133 # Weapons | CUP Weapons
+https://steamcommunity.com/workshop/filedetails/?id=843425103 # Faction | RHSAFRF
+https://steamcommunity.com/workshop/filedetails/?id=843577117 # Faction | RHSUSAF
+https://steamcommunity.com/sharedfiles/filedetails/?id=843632231 # Faction | RHSSAF
+https://steamcommunity.com/sharedfiles/filedetails/?id=843593391 # Faction | RHSGREF

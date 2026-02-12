@@ -1,27 +1,208 @@
 {
   "mods": {
-    "3312210548": {
+    "2996651194": {
       "files": [
-        "addons/Flex_CUP_UAF_Equipment.pbo",
-        "addons/Flex_CUP_UAF_Faction.pbo",
-        "addons/Flex_CUP_UAF_Faction_Plus.pbo"
+        "addons/5.45x39ammo.pbo",
+        "addons/BackPack.pbo",
+        "addons/BackPack_A.pbo",
+        "addons/BackPack_B.pbo",
+        "addons/BackPack_C.pbo",
+        "addons/BackPack_D.pbo",
+        "addons/BackPack_E.pbo",
+        "addons/BackPack_Patrol.pbo",
+        "addons/BackPack_Patrol_RPG.pbo",
+        "addons/BackPack_RPG.pbo",
+        "addons/BackPack_RPG7.pbo",
+        "addons/bukr.pbo",
+        "addons/CamoFolliage.pbo",
+        "addons/CamoNet.pbo",
+        "addons/CamoNetpart2.pbo",
+        "addons/CamoNetpart3.pbo",
+        "addons/CamoNetpart4.pbo",
+        "addons/CamoNetRoll.pbo",
+        "addons/CamoNetRollBig.pbo",
+        "addons/Caps01.pbo",
+        "addons/CorsoSupressors.pbo",
+        "addons/DTKWORN.pbo",
+        "addons/Helmet01.pbo",
+        "addons/Helmet02.pbo",
+        "addons/Helmet03.pbo",
+        "addons/Helmet04.pbo",
+        "addons/Helmet05.pbo",
+        "addons/Helmet06.pbo",
+        "addons/Helmet_Tor_D.pbo",
+        "addons/Helmet_Tor_D_2.pbo",
+        "addons/Helmet_Tor_D_3.pbo",
+        "addons/Helmet_Tor_D_4.pbo",
+        "addons/Inf_01.pbo",
+        "addons/Inf_02.pbo",
+        "addons/Inf_03.pbo",
+        "addons/Inf_04.pbo",
+        "addons/Inf_05.pbo",
+        "addons/Inf_06.pbo",
+        "addons/Inf_07.pbo",
+        "addons/Inf_08.pbo",
+        "addons/LTF_AK.pbo",
+        "addons/MAGZ.pbo",
+        "addons/main_menu.pbo",
+        "addons/MALYUKAC1.pbo",
+        "addons/MALYUKAC2.pbo",
+        "addons/MALYUKAC3.pbo",
+        "addons/MantaSupressors.pbo",
+        "addons/objet01.pbo",
+        "addons/objet02.pbo",
+        "addons/objet03.pbo",
+        "addons/objet04.pbo",
+        "addons/objet05.pbo",
+        "addons/objet06.pbo",
+        "addons/objet07.pbo",
+        "addons/objet08.pbo",
+        "addons/Prototype.pbo",
+        "addons/SCOPE.pbo",
+        "addons/SF_01.pbo",
+        "addons/SF_02.pbo",
+        "addons/SF_03.pbo",
+        "addons/SF_04.pbo",
+        "addons/SF_05.pbo",
+        "addons/SF_06.pbo",
+        "addons/SF_07.pbo",
+        "addons/SF_08.pbo",
+        "addons/SF_09.pbo",
+        "addons/SF_10.pbo",
+        "addons/SF_Mawka.pbo",
+        "addons/SF_Mawka2.pbo",
+        "addons/Soldier_01.pbo",
+        "addons/Soldier_02.pbo",
+        "addons/Soldier_03.pbo",
+        "addons/Soldier_04.pbo",
+        "addons/Soldier_05.pbo",
+        "addons/Soldier_06.pbo",
+        "addons/Soldier_07.pbo",
+        "addons/uafhg.pbo",
+        "addons/UkraineLand.pbo",
+        "addons/ukraineobject_pack.pbo",
+        "addons/Vest01.pbo",
+        "addons/Vest02.pbo",
+        "addons/Vest03.pbo",
+        "addons/Vest04.pbo",
+        "addons/Vest05.pbo",
+        "addons/Vest06.pbo",
+        "addons/Vest07.pbo",
+        "addons/Vest08.pbo",
+        "addons/Vest09.pbo",
+        "addons/Vest10.pbo",
+        "addons/Vest11.pbo",
+        "addons/Vest_01r.pbo",
+        "addons/Vest_02r.pbo",
+        "addons/Vest_03r.pbo",
+        "addons/Vest_04r.pbo",
+        "addons/Vest_05r.pbo",
+        "addons/Vest_06r.pbo"
       ],
-      "name": "Main Campaign Faction | (CUP) Ukrainian Armed Forces",
-      "dependencies": [
-        {
-          "id": "497661914",
-          "name": "CUP Units"
-        },
-        {
-          "id": "541888371",
-          "name": "CUP Vehicles"
-        },
-        {
-          "id": "497660133",
-          "name": "CUP Weapons"
-        }
+      "name": "Main Campaign Faction | ARMED FORCE UKRAINE",
+      "dependencies": [],
+      "updated": "1710670059"
+    },
+    "3496710146": {
+      "files": [
+        "addons/2s19_ua.pbo",
+        "addons/ru_bmd4.pbo",
+        "addons/ru_bmd4_b.pbo",
+        "addons/s1_ua.pbo",
+        "addons/s1_z.pbo",
+        "addons/t62m_z.pbo",
+        "addons/t80bv_ua.pbo",
+        "addons/t80bv_z.pbo",
+        "addons/t80b_ua.pbo",
+        "addons/t80b_z.pbo",
+        "addons/typhoon_ua.pbo",
+        "addons/typhoon_z.pbo",
+        "addons/ua_2s19.pbo",
+        "addons/ua_2s6.pbo",
+        "addons/ua_pancir.pbo",
+        "addons/ua_t80bv.pbo",
+        "addons/ua_zsu_23_4.pbo",
+        "addons/varta_dshk_ua.pbo",
+        "addons/varta_ua.pbo"
       ],
-      "updated": "0"
+      "name": "Main Campaign Vehicles | Ukrainian&Russian Vehicles (2022-2025)",
+      "dependencies": [],
+      "updated": "1770578136"
+    },
+    "3418145558": {
+      "files": [
+        "addons/2s19.pbo",
+        "addons/2s6.pbo",
+        "addons/bmd4.pbo",
+        "addons/bmp3.pbo",
+        "addons/bmpt.pbo",
+        "addons/boomerang.pbo",
+        "addons/sa22.pbo",
+        "addons/t55a.pbo",
+        "addons/t62m.pbo",
+        "addons/t80b.pbo",
+        "addons/t80bvm.pbo",
+        "addons/t80u.pbo",
+        "addons/tor.pbo",
+        "addons/ural63095.pbo",
+        "addons/zsu_23_4.pbo"
+      ],
+      "name": "Main Campaign Vehicles | Russian Tank Series",
+      "dependencies": [],
+      "updated": "1770903427"
+    },
+    "3498496846": {
+      "files": [
+        "addons/frtz_varta.pbo"
+      ],
+      "name": "Main Campaign Vehicles | [REMASTERED!!!] BBM Varta | \u0412\u0430\u0440\u0442\u0430 \u0411\u0411\u041c",
+      "dependencies": [],
+      "updated": "1766876285"
+    },
+    "3365663203": {
+      "files": [
+        "addons/QAV_Aegis_Challenger.pbo",
+        "addons/QAV_Challenger.pbo"
+      ],
+      "name": "Main Campaign Vehicles | QAV - Challenger 2",
+      "dependencies": [],
+      "updated": "1770556816"
+    },
+    "3414879940": {
+      "files": [
+        "addons/b_rus_backpack.pbo",
+        "addons/h_rus_6b47.pbo",
+        "addons/h_rus_kolpak_20.pbo",
+        "addons/h_rus_lshz.pbo",
+        "addons/h_rus_opscore.pbo",
+        "addons/h_ukr_1m.pbo",
+        "addons/h_ukr_1m_fast.pbo",
+        "addons/h_ukr_ops_core.pbo",
+        "addons/ukr_headgear.pbo",
+        "addons/ukr_vest.pbo",
+        "addons/u_rus_6sh119.pbo",
+        "addons/u_rus_6sh122.pbo",
+        "addons/u_rus_flis.pbo",
+        "addons/u_rus_g3.pbo",
+        "addons/u_rus_gorka.pbo",
+        "addons/u_rus_leshiy.pbo",
+        "addons/u_rus_pcu.pbo",
+        "addons/u_rus_puhovik.pbo",
+        "addons/u_rus_ryzhuha.pbo",
+        "addons/u_rus_texture.pbo",
+        "addons/u_rus_vkpo.pbo",
+        "addons/u_rus_vkpo_usmc.pbo",
+        "addons/u_ukr_uniform.pbo",
+        "addons/v_rus_6094.pbo",
+        "addons/v_rus_6b45rhs.pbo",
+        "addons/v_rus_avs.pbo",
+        "addons/v_rus_texture.pbo",
+        "addons/v_ukr_avs.pbo",
+        "addons/v_ukr_corsar.pbo"
+      ],
+      "name": "Main Campaign Equipment | Hendrix Russian and Ukraine Gear",
+      "dependencies": [],
+      "updated": "1766046491"
     },
     "2822758266": {
       "files": [
@@ -36,29 +217,8 @@
         "addons/trencher_main.pbo"
       ],
       "name": "Main Campaign Editor Extention | Trencher - Eden Trench Generation",
-      "dependencies": [
-        {
-          "id": "450814997",
-          "name": "CBA_A3"
-        },
-        {
-          "id": "2914901109",
-          "name": "Chameleon Trenches"
-        },
-        {
-          "id": "2966168738",
-          "name": "Terrain Lib"
-        }
-      ],
-      "updated": "1748435072"
-    },
-    "1378775292": {
-      "files": [
-        "addons/ussr_guitar.pbo"
-      ],
-      "name": "Main Campaign Assets | Acoustic Guitar Mod",
       "dependencies": [],
-      "updated": "1743136324"
+      "updated": "1748435072"
     },
     "3302605900": {
       "files": [
@@ -120,7 +280,7 @@
         "addons/Peer_Trenches_main.pbo",
         "addons/Peer_Trenches_vehicles.pbo"
       ],
-      "name": "Mod 2914901109",
+      "name": "Chameleon Trenches",
       "dependencies": [],
       "updated": "1763094514"
     },
@@ -128,8 +288,13 @@
       "files": [
         "addons/TerrainLib_main.pbo"
       ],
-      "name": "Mod 2966168738",
-      "dependencies": [],
+      "name": "Terrain Lib",
+      "dependencies": [
+        {
+          "id": "450814997",
+          "name": "CBA_A3"
+        }
+      ],
       "updated": "1752516417"
     }
   }
