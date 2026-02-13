@@ -1,0 +1,34 @@
+[h1]UKSF Task Force Alpha - Temporary Modpack[/h1]
+
+[b]Modular component for the UKSFTA Ecosystem.[/b]
+This project provides specialized assets/functions for UKSFTA operations. Optimized for production use and maintained via the UKSFTA automation pipeline.
+
+[h2]🗺 Included Content[/h2]
+[list]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2996651194]ARMED FORCE UKRAINE (Main Campaign Faction)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3496710146]Ukrainian&Russian Vehicles (2022-2025) (Main Campaign Vehicles)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3418145558]Russian Tank Series (Main Campaign Vehicles)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3498496846][REMASTERED!!!] BBM Varta (Main Campaign Vehicles)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3365663203]QAV - Challenger 2 (Main Campaign Vehicles)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3414879940]Hendrix Russian and Ukraine Gear (Main Campaign Equipment)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2822758266]Deformer (Main Campaign Editor Extention)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3256534418]Trencher - Eden Trench Generation (Main Campaign Editor Extention)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3302605900]FPV Drone Crocus Enhanced (Main Campaign Assets)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=520618345]Jbad (Side Operation Assets)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=612930542]RDS Civilian Pack (Side Operation Assets)[/url]
+
+[/list]
+
+[h2]🛠 Requirements[/h2]
+
+[b]Required Mod Dependencies:[/b]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2914901109]Chameleon Trenches (Transitive Dependency)[/url]
+ • [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2966168738]Terrain Lib (Transitive Dependency)[/url]
+
+This pack is intended for use by [b]UKSFTA members[/b] and mission makers.
+
+[h2]📡 About UKSFTA[/h2]
+UKSF Task Force Alpha is a tactical realism unit focused on high-quality Arma 3 simulation.
+
+[hr]
+[i]Automated deployment via UKSFTA DevOps Pipeline[/i]
