@@ -99,9 +99,26 @@
         "addons/Vest_05r.pbo",
         "addons/Vest_06r.pbo"
       ],
-      "name": "Main Campaign Faction | ARMED FORCE UKRAINE",
-      "dependencies": [],
-      "updated": "1710670059"
+      "name": "ARMED FORCE UKRAINE",
+      "dependencies": [
+        {
+          "id": "843425103",
+          "name": "Mod 843425103"
+        },
+        {
+          "id": "843632231",
+          "name": "Mod 843632231"
+        },
+        {
+          "id": "843593391",
+          "name": "Mod 843593391"
+        },
+        {
+          "id": "843577117",
+          "name": "Mod 843577117"
+        }
+      ],
+      "updated": "1689573121"
     },
     "3496710146": {
       "files": [
@@ -125,9 +142,18 @@
         "addons/varta_dshk_ua.pbo",
         "addons/varta_ua.pbo"
       ],
-      "name": "Main Campaign Vehicles | Ukrainian&Russian Vehicles (2022-2025)",
-      "dependencies": [],
-      "updated": "1770578136"
+      "name": "Ukrainian&Russian Vehicles  (2022-2025)",
+      "dependencies": [
+        {
+          "id": "843425103",
+          "name": "Mod 843425103"
+        },
+        {
+          "id": "3498496846",
+          "name": "[REMASTERED!!!] BBM Varta | \u0412\u0430\u0440\u0442\u0430 \u0411\u0411\u041c"
+        }
+      ],
+      "updated": "1756753282"
     },
     "3418145558": {
       "files": [
@@ -147,26 +173,26 @@
         "addons/ural63095.pbo",
         "addons/zsu_23_4.pbo"
       ],
-      "name": "Main Campaign Vehicles | Russian Tank Series",
+      "name": "Russian Tank Series",
       "dependencies": [],
-      "updated": "1770903427"
+      "updated": "1770362930"
     },
     "3498496846": {
       "files": [
         "addons/frtz_varta.pbo"
       ],
-      "name": "Main Campaign Vehicles | [REMASTERED!!!] BBM Varta | \u0412\u0430\u0440\u0442\u0430 \u0411\u0411\u041c",
+      "name": "[REMASTERED!!!] BBM Varta | \u0412\u0430\u0440\u0442\u0430 \u0411\u0411\u041c",
       "dependencies": [],
-      "updated": "1766876285"
+      "updated": "1760094411"
     },
     "3365663203": {
       "files": [
         "addons/QAV_Aegis_Challenger.pbo",
         "addons/QAV_Challenger.pbo"
       ],
-      "name": "Main Campaign Vehicles | QAV - Challenger 2",
+      "name": "QAV - Challenger 2",
       "dependencies": [],
-      "updated": "1770556816"
+      "updated": "1733562890"
     },
     "3414879940": {
       "files": [
@@ -200,9 +226,9 @@
         "addons/v_ukr_avs.pbo",
         "addons/v_ukr_corsar.pbo"
       ],
-      "name": "Main Campaign Equipment | Hendrix Russian and Ukraine Gear",
+      "name": "Hendrix Russian and Ukraine Gear",
       "dependencies": [],
-      "updated": "1766046491"
+      "updated": "1770744476"
     },
     "2822758266": {
       "files": [
@@ -210,24 +236,33 @@
       ],
       "name": "Main Campaign Editor Extention | Deformer",
       "dependencies": [],
-      "updated": "0"
+      "updated": "1667139282"
     },
     "3256534418": {
       "files": [
         "addons/trencher_main.pbo"
       ],
-      "name": "Main Campaign Editor Extention | Trencher - Eden Trench Generation",
-      "dependencies": [],
-      "updated": "1748435072"
+      "name": "Trencher - Eden Trench Generation",
+      "dependencies": [
+        {
+          "id": "2914901109",
+          "name": "Chameleon Trenches"
+        },
+        {
+          "id": "2966168738",
+          "name": "Terrain Lib"
+        }
+      ],
+      "updated": "1720970711"
     },
     "3302605900": {
       "files": [
         "addons/ArmaFPV.pbo",
         "addons/BOT_FPV_Enhanced.pbo"
       ],
-      "name": "Main Campaign Assets | FPV Drone Crocus Enhanced",
+      "name": "FPV Drone Crocus Enhanced",
       "dependencies": [],
-      "updated": "1763848609"
+      "updated": "1751700490"
     },
     "520618345": {
       "files": [
@@ -260,9 +295,9 @@
         "addons/Sidewalks.pbo",
         "addons/Walls.pbo"
       ],
-      "name": "Side Operation Assets | Jbad",
+      "name": "Jbad",
       "dependencies": [],
-      "updated": "1591515779"
+      "updated": "1663995795"
     },
     "612930542": {
       "files": [
@@ -271,9 +306,24 @@
         "addons/rds_a2port_civ_sound_cfg.pbo",
         "addons/rds_a2port_cman.pbo"
       ],
-      "name": "Side Operation Assets | RDS Civilian Pack",
+      "name": "RDS Civilian Pack",
       "dependencies": [],
-      "updated": "1617132885"
+      "updated": "1616955151"
+    },
+    "3295358796": {
+      "files": [
+        "addons/cpe_men.pbo",
+        "addons/MK50.pbo",
+        "addons/PHAN_CW.pbo"
+      ],
+      "name": "Chemical Warfare PLUS",
+      "dependencies": [
+        {
+          "id": "1779063631",
+          "name": "Zeus Enhanced"
+        }
+      ],
+      "updated": "1770905579"
     },
     "2914901109": {
       "files": [
@@ -282,20 +332,57 @@
       ],
       "name": "Chameleon Trenches",
       "dependencies": [],
-      "updated": "1763094514"
+      "updated": "1740354972"
     },
     "2966168738": {
       "files": [
         "addons/TerrainLib_main.pbo"
       ],
       "name": "Terrain Lib",
-      "dependencies": [
-        {
-          "id": "450814997",
-          "name": "CBA_A3"
-        }
+      "dependencies": [],
+      "updated": "1717105840"
+    },
+    "1779063631": {
+      "files": [
+        "addons/zen_ai.pbo",
+        "addons/zen_area_markers.pbo",
+        "addons/zen_attached_objects.pbo",
+        "addons/zen_attributes.pbo",
+        "addons/zen_building_markers.pbo",
+        "addons/zen_camera.pbo",
+        "addons/zen_common.pbo",
+        "addons/zen_compat_ace.pbo",
+        "addons/zen_compat_advanced_rappelling.pbo",
+        "addons/zen_compositions.pbo",
+        "addons/zen_context_actions.pbo",
+        "addons/zen_context_menu.pbo",
+        "addons/zen_cover_map.pbo",
+        "addons/zen_custom_modules.pbo",
+        "addons/zen_damage.pbo",
+        "addons/zen_dialog.pbo",
+        "addons/zen_doors.pbo",
+        "addons/zen_editor.pbo",
+        "addons/zen_editor_previews.pbo",
+        "addons/zen_faction_filter.pbo",
+        "addons/zen_flashlight.pbo",
+        "addons/zen_garage.pbo",
+        "addons/zen_inventory.pbo",
+        "addons/zen_loadout.pbo",
+        "addons/zen_main.pbo",
+        "addons/zen_markers_tree.pbo",
+        "addons/zen_modules.pbo",
+        "addons/zen_music.pbo",
+        "addons/zen_placement.pbo",
+        "addons/zen_position_logics.pbo",
+        "addons/zen_pylons.pbo",
+        "addons/zen_remote_control.pbo",
+        "addons/zen_tasks.pbo",
+        "addons/zen_visibility.pbo",
+        "addons/zen_vision.pbo"
       ],
-      "updated": "1752516417"
+      "name": "Zeus Enhanced",
+      "dependencies": [],
+      "updated": "1724123223"
     }
   }
 }

@@ -1,7 +1,3 @@
-# Paste Steam Workshop URLs or IDs below.
-# Format: URL/ID # Tag (Optional)
-# Example: 450814997 # Weekend Ops, Core
-
 https://steamcommunity.com/sharedfiles/filedetails/?id=2996651194 # Main Campaign Faction | ARMED FORCE UKRAINE
 https://steamcommunity.com/sharedfiles/filedetails/?id=3496710146 # Main Campaign Vehicles | Ukrainian&Russian Vehicles (2022-2025)
 https://steamcommunity.com/sharedfiles/filedetails/?id=3418145558 # Main Campaign Vehicles | Russian Tank Series
@@ -13,10 +9,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3256534418 # Main Campaig
 https://steamcommunity.com/sharedfiles/filedetails/?id=3302605900 # Main Campaign Assets | FPV Drone Crocus Enhanced
 https://steamcommunity.com/sharedfiles/filedetails/?id=520618345 # Side Operation Assets | Jbad
 https://steamcommunity.com/sharedfiles/filedetails/?id=612930542 # Side Operation Assets | RDS Civilian Pack
+https://steamcommunity.com/sharedfiles/filedetails/?id=3295358796 # Side Operation Overhaul | Chemical Warfare PLUS
 
 [ignore]
-# List mods to exclude from download/sync below
-# https://steamcommunity.com/sharedfiles/filedetails/?id=463939057 # Overhaul | ACE
 https://steamcommunity.com/sharedfiles/filedetails/?id=450814997 # Base | CBA_3
 https://steamcommunity.com/workshop/filedetails/?id=843425103 # Faction | RHSAFRF
 https://steamcommunity.com/workshop/filedetails/?id=843577117 # Faction | RHSUSAF
