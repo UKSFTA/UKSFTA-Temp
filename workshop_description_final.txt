@@ -22,7 +22,7 @@ This project provides specialized assets/functions for UKSFTA operations. Optimi
 
 [h2]🛠 Requirements[/h2]
 [b]Repacked Dependencies:[/b]
-[i]The following items are already included in this modpack and do not require separate subscription:[/i]
+[i]Included in this modpack:[/i]
 [list]
  [*] Chameleon Trenches (Included) (Workshop ID: 2914901109)
  [*] Terrain Lib (Included) (Workshop ID: 2966168738)
